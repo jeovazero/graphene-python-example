@@ -1,3 +1,5 @@
+> No error handling, yet...
+
 #### Requeriments:
 - flask
 - graphene (>=2.0)
